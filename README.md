@@ -1,4 +1,4 @@
-# backend_calendario
+# API
 Serviço backend de api métodos GET e POST
 
 ## Requirements
